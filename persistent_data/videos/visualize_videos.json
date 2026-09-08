@@ -1,0 +1,42 @@
+{
+  "visualizeVideos/sorting/insertion-sort": {
+    "algorithmId": "insertion-sort",
+    "algoId": "insertion",
+    "name": "Insertion Sort Educational Video.mp4",
+    "filename": "insertion.mp4",
+    "storagePath": "/persistent_data/videos/insertion.mp4",
+    "url": "/api/videos/visualizeVideos/sorting/insertion-sort",
+    "directUrl": "/api/videos/insertion",
+    "locked": true,
+    "isLocked": true,
+    "size": 8326863,
+    "mimeType": "video/mp4"
+  },
+  "visualizeVideos/sorting/selection-sort": {
+    "algorithmId": "selection-sort",
+    "algoId": "selection",
+    "name": "Selection Sort Educational Video.mp4",
+    "filename": "selection.mp4",
+    "storagePath": "/persistent_data/videos/selection.mp4",
+    "url": "/api/videos/visualizeVideos/sorting/selection-sort",
+    "directUrl": "/api/videos/selection",
+    "locked": true,
+    "isLocked": true,
+    "size": 6940434,
+    "mimeType": "video/mp4"
+  },
+  "visualizeVideos/data-structures/stack": {
+    "algorithmId": "stack",
+    "algoId": "stack",
+    "name": "Stack Operations.mp4",
+    "filename": "Stack Operations.mp4",
+    "storagePath": "src/Videos/Stack Operations.mp4",
+    "url": "/api/videos/stack",
+    "directUrl": "/api/videos/stack",
+    "locked": true,
+    "isLocked": true,
+    "size": 3792713,
+    "mimeType": "video/mp4",
+    "duration": 80
+  }
+}

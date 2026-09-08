@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix AlgoLearn-stack",
+  "description": "Imported from GitHub: meghana2230/AlgoLearn-stack",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
